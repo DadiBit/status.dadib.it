@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dadib.it.ico",
     "slug": "dadib-it",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "48.31%",
+    "uptimeDay": "48.31%",
+    "uptimeWeek": "48.31%",
+    "uptimeMonth": "48.31%",
+    "uptimeYear": "48.31%",
     "time": 635,
     "timeDay": 635,
     "timeWeek": 635,
     "timeMonth": 635,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2024-09-29": 0
+      "2024-09-30": 63,
+      "2024-09-29": 467
     }
   }
 ]
