@@ -1,20 +1,20 @@
 [
   {
-    "name": "Example",
-    "url": "https://example.com",
-    "icon": "https://icons.duckduckgo.com/ip3/example.com.ico",
-    "slug": "example",
+    "name": "Radicale CalDAV (calendar) and CardDAV (contact) server.",
+    "url": "https://radicale.dadib.it:5232/",
+    "icon": "https://radicale.org/assets/logo.svg",
+    "slug": "radicale-cal-dav-calendar-and-card-dav-contact-server",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 46,
-    "timeDay": 34,
-    "timeWeek": 46,
-    "timeMonth": 46,
-    "timeYear": 46,
+    "time": 1069,
+    "timeDay": 1069,
+    "timeWeek": 1069,
+    "timeMonth": 1069,
+    "timeYear": 1069,
     "dailyMinutesDown": {}
   }
 ]
