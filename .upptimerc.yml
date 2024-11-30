@@ -6,6 +6,9 @@ sites:
   - name: Radicale CalDAV and CardDAV server
     url: https://radicale.dadib.it:5232/
     icon: https://radicale.org/assets/logo.svg
+  - name: Lanyon Blog
+    url: https://blog.dadib.it/
+    icon: https://lanyon.getpoole.com/public/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
