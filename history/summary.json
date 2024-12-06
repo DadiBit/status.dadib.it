@@ -22,17 +22,19 @@
     "url": "https://blog.dadib.it/",
     "icon": "https://lanyon.getpoole.com/public/favicon.ico",
     "slug": "lanyon-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 184,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 187,
-    "dailyMinutesDown": {}
+    "time": 183,
+    "timeDay": 167,
+    "timeWeek": 183,
+    "timeMonth": 183,
+    "timeYear": 183,
+    "dailyMinutesDown": {
+      "2024-12-06": 0
+    }
   }
 ]
