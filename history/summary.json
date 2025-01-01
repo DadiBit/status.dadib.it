@@ -4,7 +4,7 @@
     "url": "https://radicale.dadib.it:5232/",
     "icon": "https://radicale.org/assets/logo.svg",
     "slug": "radicale-cal-dav-and-card-dav-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1294,
     "timeMonth": 1282,
     "timeYear": 1331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-01": 0
+    }
   },
   {
     "name": "Lanyon Blog",
