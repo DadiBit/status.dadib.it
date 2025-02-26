@@ -4,18 +4,20 @@
     "url": "http://wireguard.dadib.it:51821/",
     "icon": "https://icons.duckduckgo.com/ip3/wireguard.dadib.it.ico",
     "slug": "wireguard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2802,
-    "timeDay": 2802,
+    "timeDay": 473,
     "timeWeek": 2802,
     "timeMonth": 2802,
     "timeYear": 2802,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-26": 0
+    }
   },
   {
     "name": "Blog",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 220,
+    "timeDay": 215,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
