@@ -1,23 +1,41 @@
 [
   {
     "name": "Wireguard",
-    "url": "http://wireguard.dadib.it:51821/",
+    "url": "https://wireguard.dadib.it/",
     "icon": "https://icons.duckduckgo.com/ip3/wireguard.dadib.it.ico",
     "slug": "wireguard",
-    "status": "down",
+    "status": "up",
+    "uptime": "96.30%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "96.30%",
+    "uptimeYear": "96.30%",
+    "time": 1647,
+    "timeDay": 485,
+    "timeWeek": 1647,
+    "timeMonth": 1647,
+    "timeYear": 1647,
+    "dailyMinutesDown": {
+      "2025-02-26": 69
+    }
+  },
+  {
+    "name": "Radicale",
+    "url": "https://radicale.dadib.it/",
+    "icon": "https://icons.duckduckgo.com/ip3/radicale.dadib.it.ico",
+    "slug": "radicale",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2033,
-    "timeDay": 485,
-    "timeWeek": 2033,
-    "timeMonth": 2033,
-    "timeYear": 2033,
-    "dailyMinutesDown": {
-      "2025-02-26": 0
-    }
+    "time": 743,
+    "timeDay": 743,
+    "timeWeek": 743,
+    "timeMonth": 743,
+    "timeYear": 743,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -30,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 215,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "time": 184,
+    "timeDay": 164,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   }
 ]
