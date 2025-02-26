@@ -4,7 +4,9 @@ repo: status.dadib.it # The name of this repository
 
 sites:
   - name: Wireguard
-    url: http://wireguard.dadib.it:51821/
+    url: https://wireguard.dadib.it/
+  - name: Radicale
+    url: https://radicale.dadib.it/
   - name: Blog
     url: https://blog.dadib.it/
 
