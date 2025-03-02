@@ -4,18 +4,19 @@
     "url": "https://wireguard.dadib.it/",
     "icon": "https://icons.duckduckgo.com/ip3/wireguard.dadib.it.ico",
     "slug": "wireguard",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.92%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 1227,
     "timeDay": 887,
     "timeWeek": 1227,
     "timeMonth": 1227,
     "timeYear": 1227,
     "dailyMinutesDown": {
+      "2025-03-02": 2,
       "2025-02-26": 69
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://radicale.dadib.it/",
     "icon": "https://icons.duckduckgo.com/ip3/radicale.dadib.it.ico",
     "slug": "radicale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 746,
     "timeMonth": 746,
     "timeYear": 746,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 0
+    }
   },
   {
     "name": "Blog",
