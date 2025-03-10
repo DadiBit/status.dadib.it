@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wireguard.dadib.it.ico",
     "slug": "wireguard",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
-    "time": 2258,
-    "timeDay": 604,
-    "timeWeek": 3290,
-    "timeMonth": 2258,
-    "timeYear": 2258,
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 2159,
+    "timeDay": 564,
+    "timeWeek": 911,
+    "timeMonth": 2159,
+    "timeYear": 2159,
     "dailyMinutesDown": {
       "2025-02-26": 69
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 959,
-    "timeDay": 589,
-    "timeWeek": 1092,
-    "timeMonth": 959,
-    "timeYear": 959,
+    "time": 930,
+    "timeDay": 551,
+    "timeWeek": 1004,
+    "timeMonth": 930,
+    "timeYear": 930,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 203,
-    "timeWeek": 303,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "time": 252,
+    "timeDay": 91,
+    "timeWeek": 269,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   }
 ]
